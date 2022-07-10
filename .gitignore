@@ -1,0 +1,7 @@
+# data
+data/
+
+# python environment
+env/
+pyproject.toml
+
